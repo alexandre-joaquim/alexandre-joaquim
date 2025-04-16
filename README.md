@@ -33,14 +33,4 @@ Graduando em Administração (Anhembi Morumbi – jun/2025), com experiência em
 
 ### 🔹[Excel](Excel): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
 
----
 
-## 📄 Experiências Profissionais
-- [Controladoria – ENGIE](./experiencias/engie-controladoria.md)
-- [Inteligência de Mercado – Conset Corretora](./experiencias/conset-inteligencia-mercado.md)
-
----
-
-## 📚 Certificados
-- Power BI – Udemy (10h)
-- Python – SENAI (60h)
