@@ -1,4 +1,4 @@
-Alexandre Joaquim da Silva
+## Alexandre Joaquim da Silva
 
 🎓 Graduando em Administração (Universidade Anhembi Morumbi – Jun/2025)  
 📊 Experiência em Controladoria, Inteligência de Mercado, Power BI e Python  
