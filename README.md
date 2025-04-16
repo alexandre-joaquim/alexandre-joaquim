@@ -23,13 +23,13 @@ Graduando em Administração (Anhembi Morumbi – jun/2025), com experiência em
 
 ## 📁 Projetos
 
-### 🔹[Power Bi](./powerbi/dashboard-vendas/README.md): Repositório com relatórios em Power BI, focado na modelagem de dados e criação de dashboards dinâmicos e informativos.
+### 🔹[Power Bi](PowerBI): Repositório com relatórios em Power BI, focado na modelagem de dados e criação de dashboards dinâmicos e informativos.
 
-### 🔹[Python](./python/analise-despesas/analise_despesas.py): Automatização de processos de obtenção e tratamento de dados com foco em qualidade e eficiência para análises posteriores.
+### 🔹[Python](Python): Automatização de processos de obtenção e tratamento de dados com foco em qualidade e eficiência para análises posteriores.
 
-### 🔹[Java](./python/analise-despesas/analise_despesas.py): Projeto em Java voltado ao desenvolvimento de aplicações back-end com foco em desempenho e escalabilidade.
+### 🔹[Java](Java): Projeto em Java voltado ao desenvolvimento de aplicações back-end com foco em desempenho e escalabilidade.
 
-### 🔹[SQL](./python/analise-despesas/analise_despesas.py): Consultas SQL para extração, manipulação e análise de dados em bancos relacionais
+### 🔹[SQL](SQL): Consultas SQL para extração, manipulação e análise de dados em bancos relacionais
 
 ### 🔹[Excel](Excel): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
 
