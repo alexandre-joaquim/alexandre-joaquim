@@ -31,7 +31,7 @@ Graduando em Administração (Anhembi Morumbi – jun/2025), com experiência em
 
 ### 🔹[SQL](./python/analise-despesas/analise_despesas.py): Consultas SQL para extração, manipulação e análise de dados em bancos relacionais
 
-### 🔹[Excel](./python/analise-despesas/analise_despesas.py): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
+### 🔹[Excel](Excel): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
 
 ---
 
