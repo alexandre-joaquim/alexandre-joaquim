@@ -18,7 +18,6 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
 <hr>
----
 
 ## 📁 Projetos
 
@@ -31,8 +30,6 @@
 ### 🔹[SQL](SQL): Consultas SQL para extração, manipulação e análise de dados em bancos relacionais
 
 ### 🔹[Excel](Excel): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
-
-
-
+<hr>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexandre-joaquim&theme=python-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
    
