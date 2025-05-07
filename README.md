@@ -1,3 +1,8 @@
+</a>
+<a href="https://www.linkedin.com/in/alexandre-joaquim-518b09156" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&pause=1000&color=8E00FF&width=435&lines=Hello%2C+I'm+Alexandre+Joaquim.😃;Welcome+to+my+repository💻" alt="Typing SVG" /></a>
 </h1>
