@@ -24,7 +24,7 @@
 </p>
 <hr>
 
-## 📁 Projetos
+## 📁 Arquivos
 
 ### 🔹[Power Bi](PowerBI): Repositório com relatórios em Power BI, focado na modelagem de dados e criação de dashboards dinâmicos e informativos.
 
