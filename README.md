@@ -26,15 +26,10 @@
 
 ## 📁 Arquivos
 
-### 🔹[Power Bi](PowerBI): Repositório com relatórios em Power BI, focado na modelagem de dados e criação de dashboards dinâmicos e informativos.
-
 ### 🔹[Python](Python): Automatização de processos de obtenção e tratamento de dados com foco em qualidade e eficiência para análises posteriores.
 
 ### 🔹[Java](Java): Projeto em Java voltado ao desenvolvimento de aplicações back-end com foco em desempenho e escalabilidade.
 
-### 🔹[SQL](SQL): Consultas SQL para extração, manipulação e análise de dados em bancos relacionais
-
-### 🔹[Excel](Excel): Projeto em Excel utilizando fórmulas avançadas, tabelas dinâmicas e recursos de automação para otimizar tarefas e análises
 <hr>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexandre-joaquim&theme=python-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
    
