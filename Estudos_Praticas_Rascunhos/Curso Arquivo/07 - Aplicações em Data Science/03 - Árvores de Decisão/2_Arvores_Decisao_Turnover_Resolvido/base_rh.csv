@@ -1,0 +1,1471 @@
+"Funcionario_Deixou_Empresa","Freq_Viagens","Formacao","Estado_Civil","Faz_hora_extras","Equilibrio_de_Vida","Idade","Tempo_de_empresa"
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Ruim",41,6
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",49,10
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",37,0
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",33,8
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",27,2
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",32,7
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",59,1
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",30,1
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",38,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",36,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,5
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",29,9
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Bom",31,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",34,2
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",28,4
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",29,10
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Bom",32,6
+"Não","Não viaja","Ensino Técnico","Divorciado","Sim","Bom",22,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",53,25
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",38,3
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Bom",24,4
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",36,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",34,12
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",21,0
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",34,4
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",53,14
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",32,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",42,9
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",44,22
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",46,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",33,1
+"Não","Viaja raramente","Mestrado","Casado","Sim","Excelente",44,4
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",30,10
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Excelente",39,1
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Bom",24,2
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",43,5
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",50,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,2
+"Não","Viaja raramente","Mestrado","Casado","Sim","Excelente",36,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",33,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",35,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",27,1
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",26,1
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",27,9
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Muito bom",30,12
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",41,22
+"Não","Não viaja","Mestrado","Solteiro","Não","Muito bom",34,9
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",37,1
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Muito bom",46,9
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",35,1
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",48,1
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Bom",28,2
+"Não","Viaja raramente","Doutorado","Divorciado","Sim","Bom",44,4
+"Não","Não viaja","Ensino Técnico","Casado","Sim","Muito bom",35,4
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",26,2
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Muito bom",33,15
+"Não","Viaja frequentemente","Doutorado","Casado","Não","Bom",35,9
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",35,2
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",31,7
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Excelente",37,7
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",32,9
+"Não","Viaja frequentemente","Doutorado","Solteiro","Não","Muito bom",38,10
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Bom",50,27
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",59,21
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",36,17
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",55,5
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",36,6
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",45,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",35,3
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Bom",36,1
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Bom",59,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",29,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",31,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",32,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,1
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",31,11
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,15
+"Não","Viaja raramente","Mestrado","Casado","Sim","Excelente",45,0
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",37,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",46,4
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",30,10
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",35,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",55,1
+"Não","Não viaja","Ensino Superior","Divorciado","Sim","Muito bom",38,13
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",34,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",56,6
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",23,0
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",51,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,11
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",46,9
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Bom",40,22
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Ruim",51,10
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Bom",30,11
+"Não","Viaja frequentemente","Ensino Superior","Casado","Sim","Bom",46,10
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",32,11
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",54,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",24,3
+"Não","Não viaja","Ensino Superior","Casado","Não","Excelente",28,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",58,37
+"Não","Não viaja","Ensino Superior","Casado","Não","Excelente",44,3
+"Sim","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",37,3
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",32,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",20,1
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",34,16
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Excelente",37,1
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",59,3
+"Não","Viaja frequentemente","Ensino Superior","Casado","Sim","Bom",50,8
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",25,6
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",25,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",22,0
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Bom",51,13
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",34,9
+"Não","Não viaja","Ensino Superior","Solteiro","Sim","Muito bom",54,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",24,5
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",34,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",37,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",34,11
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",36,9
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",36,1
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Excelente",43,25
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",30,10
+"Não","Não viaja","Ensino Técnico","Casado","Não","Excelente",33,7
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Muito bom",56,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",51,20
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Bom",31,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",26,5
+"Sim","Viaja raramente","Mestrado","Casado","Não","Bom",58,40
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Bom",19,0
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",22,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",49,15
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",43,3
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",50,2
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",31,2
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Muito bom",41,9
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",26,8
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",36,3
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",51,4
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",39,15
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",25,2
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Ruim",30,11
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",32,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",45,6
+"Não","Viaja raramente","Doutorado","Solteiro","Sim","Muito bom",38,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",30,5
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Excelente",32,8
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",30,3
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",30,5
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",41,7
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",41,5
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",19,1
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",40,20
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",35,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Ruim",53,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Ruim",45,17
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",32,9
+"Não","Não viaja","Ensino Médio","Casado","Não","Muito bom",29,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",51,1
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",58,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",40,12
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",34,4
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",22,2
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Ruim",27,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",28,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Ruim",57,5
+"Não","Não viaja","Ensino Superior","Divorciado","Sim","Bom",27,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",50,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",41,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,10
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",38,8
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Muito bom",32,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",27,5
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Não","Excelente",19,0
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",36,8
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Muito bom",30,12
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Excelente",45,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",56,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",33,3
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",19,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",46,24
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",38,2
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",31,4
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",34,3
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Bom",41,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",50,3
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",53,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",33,8
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",40,20
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",55,24
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Bom",34,10
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",51,7
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",52,33
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",27,7
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",35,1
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Excelente",43,5
+"Não","Não viaja","Ensino Técnico","Casado","Não","Muito bom",45,20
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",37,8
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",35,6
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Muito bom",42,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",38,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",38,7
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",27,2
+"Não","Não viaja","Mestrado","Divorciado","Sim","Muito bom",49,7
+"Não","Viaja frequentemente","Mestrado","Divorciado","Sim","Excelente",34,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Excelente",40,7
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",38,1
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Bom",29,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Bom",22,4
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Muito bom",36,8
+"Não","Não viaja","Doutorado","Casado","Não","Ruim",40,3
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",46,4
+"Sim","Viaja raramente","Mestrado","Casado","Não","Bom",32,14
+"Não","Não viaja","Ensino Médio","Solteiro","Não","Muito bom",30,11
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",27,7
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",51,10
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",30,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",41,1
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Não","Bom",30,6
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",29,6
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",45,19
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",54,6
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",36,13
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",33,3
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Muito bom",37,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",38,16
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",31,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",59,1
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",37,9
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",29,11
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Excelente",35,10
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Bom",29,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",52,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",42,22
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",59,2
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",50,7
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Ruim",33,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",43,17
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",33,9
+"Não","Não viaja","Mestrado","Solteiro","Sim","Excelente",52,33
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",32,4
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Ruim",32,3
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",39,3
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",32,3
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",41,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",40,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",45,24
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",31,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",33,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",34,11
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",37,3
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",45,3
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",37,1
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",39,19
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,6
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",42,3
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",29,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",25,4
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",42,9
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",40,21
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",51,1
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Excelente",31,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Ruim",32,5
+"Não","Não viaja","Ensino Técnico","Casado","Não","Muito bom",38,8
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",32,6
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",46,7
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Ruim",28,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",29,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",31,9
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Muito bom",25,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",45,20
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,15
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",55,36
+"Sim","Não viaja","Mestrado","Casado","Sim","Bom",47,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",28,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",37,5
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",21,3
+"Não","Não viaja","Mestrado","Divorciado","Sim","Muito bom",37,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",35,7
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",38,8
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Ruim",26,6
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Bom",50,10
+"Não","Viaja raramente","Mestrado","Casado","Sim","Bom",53,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",42,20
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",29,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",55,10
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",26,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",37,17
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Ruim",44,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",38,2
+"Sim","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",26,3
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",28,5
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Muito bom",49,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",36,8
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",31,2
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",26,8
+"Não","Viaja frequentemente","Ensino Superior","Casado","Sim","Bom",37,4
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",42,20
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",18,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",35,11
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",36,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",51,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",41,22
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",18,0
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",28,8
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",31,8
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",39,18
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",36,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",32,13
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",38,10
+"Não","Não viaja","Mestrado","Divorciado","Sim","Muito bom",58,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",31,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",31,2
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",45,24
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Ruim",31,2
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",33,10
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",39,21
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",43,8
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",49,7
+"Sim","Viaja raramente","Mestrado","Casado","Não","Bom",52,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Bom",27,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",32,13
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",27,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",31,7
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",32,7
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Bom",28,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",30,10
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",31,10
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",39,21
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",39,1
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Bom",33,7
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",47,3
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Excelente",43,9
+"Não","Não viaja","Ensino Médio","Casado","Sim","Muito bom",27,5
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Bom",54,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",43,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",45,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",40,4
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Bom",29,7
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Muito bom",29,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",30,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",27,8
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",37,6
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",38,11
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Bom",31,11
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Muito bom",29,7
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,16
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Bom",23,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",41,5
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Muito bom",47,0
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Muito bom",42,1
+"Não","Não viaja","Ensino Superior","Casado","Não","Bom",29,4
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Muito bom",42,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",32,8
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Ruim",48,0
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",37,7
+"Não","Não viaja","Ensino Técnico","Casado","Sim","Excelente",30,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",26,8
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",42,1
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",21,3
+"Não","Não viaja","Doutorado","Solteiro","Não","Muito bom",36,1
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",36,13
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",57,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",40,7
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Bom",21,3
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",33,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",37,5
+"Não","Não viaja","Mestrado","Casado","Não","Excelente",46,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",41,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",50,4
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",40,6
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",31,2
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",21,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",27,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",28,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",49,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",51,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,2
+"Sim","Não viaja","Ensino Superior","Solteiro","Sim","Bom",34,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",55,5
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Excelente",24,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",30,1
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Não","Muito bom",26,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",22,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",36,10
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",30,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",37,18
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",40,5
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",42,5
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Bom",37,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",43,25
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",40,1
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",54,4
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",34,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",31,13
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",43,3
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",43,5
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",25,5
+"Não","Não viaja","Doutorado","Casado","Sim","Muito bom",37,13
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",31,4
+"Não","Viaja frequentemente","Ensino Médio","Divorciado","Sim","Muito bom",39,21
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",56,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",30,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",41,10
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",28,10
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",25,2
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",52,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",45,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",52,5
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Muito bom",42,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",30,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",60,29
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",46,10
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Excelente",42,6
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",24,5
+"Sim","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Bom",34,2
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",38,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",40,20
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Ruim",26,3
+"Não","Não viaja","Ensino Superior","Casado","Não","Ruim",30,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",29,10
+"Sim","Viaja raramente","Doutorado","Casado","Não","Excelente",29,2
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",19,1
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",30,9
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",57,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",50,27
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",30,11
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",60,18
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",47,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",46,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",35,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",54,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",34,7
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",46,3
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Excelente",31,13
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Excelente",33,7
+"Sim","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",33,4
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",30,3
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",35,8
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",31,1
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Muito bom",34,3
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",42,2
+"Não","Não viaja","Mestrado","Solteiro","Não","Bom",36,10
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Não","Muito bom",22,2
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",48,9
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Muito bom",55,10
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",41,14
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,11
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",40,20
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",39,8
+"Não","Viaja raramente","Ensino Médio","Solteiro","Sim","Excelente",31,6
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",42,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",45,8
+"Sim","Viaja frequentemente","Mestrado","Divorciado","Sim","Bom",26,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",29,3
+"Não","Viaja raramente","Doutorado","Divorciado","Não","Muito bom",33,6
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",31,5
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",18,0
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Muito bom",40,1
+"Não","Não viaja","Mestrado","Solteiro","Sim","Muito bom",41,8
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",26,0
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",35,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",34,10
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Ruim",26,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",37,6
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Bom",46,2
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",41,18
+"Não","Não viaja","Mestrado","Divorciado","Não","Muito bom",37,9
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",52,10
+"Sim","Não viaja","Mestrado","Casado","Não","Muito bom",32,4
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",24,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",37,6
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",49,31
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",24,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",26,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",24,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",50,32
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",25,7
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Sim","Muito bom",24,6
+"Sim","Viaja frequentemente","Mestrado","Casado","Não","Excelente",30,1
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",34,6
+"Sim","Viaja raramente","Mestrado","Divorciado","Não","Ruim",31,3
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",35,3
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Excelente",31,7
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",27,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",37,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",20,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",42,10
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Bom",43,1
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",38,0
+"Não","Viaja frequentemente","Doutorado","Divorciado","Sim","Muito bom",43,8
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",48,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",44,2
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",34,8
+"Sim","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",27,4
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",21,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Excelente",44,2
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",22,2
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",33,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Bom",32,6
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",30,1
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Excelente",53,14
+"Não","Viaja raramente","Doutorado","Casado","Não","Bom",34,10
+"Sim","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",45,1
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",26,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",37,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",29,6
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,17
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Ruim",33,13
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",54,9
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",36,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",27,4
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",20,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",33,10
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",35,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",23,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",25,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",38,7
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",29,10
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",48,2
+"Não","Viaja frequentemente","Ensino Médio","Divorciado","Sim","Muito bom",27,6
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",37,1
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",50,20
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",34,8
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",24,2
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",39,20
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",32,10
+"Sim","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",50,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",38,9
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",27,9
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",32,7
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",47,7
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",40,18
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",53,5
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",41,21
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",60,2
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Bom",27,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",41,22
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",50,2
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",28,7
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",36,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Excelente",38,1
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",44,5
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Bom",47,22
+"Não","Viaja raramente","Doutorado","Divorciado","Não","Bom",30,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,1
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Muito bom",42,2
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",43,2
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",34,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Excelente",23,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",39,8
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",56,10
+"Não","Viaja raramente","Ensino Médio","Solteiro","Sim","Bom",40,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Ruim",27,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",29,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",53,2
+"Não","Não viaja","Mestrado","Divorciado","Não","Excelente",35,1
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",32,10
+"Não","Viaja raramente","Doutorado","Casado","Sim","Ruim",38,1
+"Não","Viaja raramente","Doutorado","Divorciado","Não","Muito bom",34,0
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",52,34
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Bom",33,10
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",25,6
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",45,8
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",23,2
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Muito bom",47,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",34,6
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",55,5
+"Não","Não viaja","Mestrado","Solteiro","Não","Muito bom",36,10
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",52,4
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Muito bom",26,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",29,8
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",26,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",34,4
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",54,5
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",27,4
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Bom",37,5
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Muito bom",38,15
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",34,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",35,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,2
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",40,8
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",34,3
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",42,24
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",23,0
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Muito bom",24,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",52,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",50,4
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",29,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",33,13
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",33,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",47,26
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,9
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",29,10
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",58,31
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",42,4
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Bom",28,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",32,14
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",40,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Bom",30,0
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",45,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",42,9
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",38,4
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",34,5
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Excelente",49,9
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",55,9
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",43,4
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Muito bom",27,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",35,8
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",28,8
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",34,3
+"Sim","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",26,8
+"Não","Não viaja","Ensino Superior","Casado","Não","Bom",27,0
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",51,20
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",44,5
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",25,4
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",33,9
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",35,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",36,18
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",32,5
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Bom",30,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",53,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",45,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",32,5
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",52,9
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",37,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",28,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",22,2
+"Não","Viaja raramente","Mestrado","Casado","Sim","Bom",44,3
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",42,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,5
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",25,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",35,17
+"Sim","Viaja frequentemente","Mestrado","Divorciado","Sim","Bom",35,10
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Muito bom",32,3
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Excelente",25,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",49,4
+"Não","Não viaja","Ensino Médio","Casado","Não","Bom",24,5
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",32,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,2
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",42,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",31,6
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",29,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",53,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,13
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",37,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",53,12
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",43,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",47,7
+"Não","Não viaja","Ensino Técnico","Solteiro","Sim","Muito bom",37,10
+"Não","Não viaja","Mestrado","Divorciado","Não","Muito bom",50,31
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",39,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Excelente",33,4
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Ruim",32,1
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",29,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",44,8
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",28,4
+"Sim","Viaja frequentemente","Ensino Médio","Divorciado","Sim","Bom",58,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",43,1
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",20,2
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Não","Bom",21,1
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",36,16
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Bom",47,3
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Excelente",22,3
+"Sim","Viaja raramente","Mestrado","Divorciado","Sim","Bom",41,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",28,2
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Ruim",39,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",27,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",34,1
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",42,5
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",33,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",58,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",31,7
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Ruim",35,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",49,26
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",48,0
+"Não","Não viaja","Ensino Técnico","Casado","Não","Bom",31,9
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",36,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,15
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",32,3
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",25,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",40,1
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",26,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",41,18
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",36,11
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Excelente",19,1
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",20,1
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Ruim",31,9
+"Não","Viaja frequentemente","Mestrado","Divorciado","Sim","Muito bom",40,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",32,8
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",36,16
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",33,5
+"Sim","Viaja raramente","Mestrado","Casado","Não","Ruim",37,14
+"Não","Não viaja","Ensino Técnico","Casado","Não","Bom",45,9
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",29,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",52,9
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",58,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Excelente",53,17
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Excelente",30,8
+"Não","Não viaja","Ensino Superior","Solteiro","Sim","Muito bom",38,5
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",35,10
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Muito bom",39,8
+"Sim","Não viaja","Ensino Superior","Solteiro","Sim","Bom",40,1
+"Não","Viaja frequentemente","Mestrado","Divorciado","Sim","Excelente",47,19
+"Não","Não viaja","Mestrado","Divorciado","Não","Muito bom",36,7
+"Sim","Não viaja","Ensino Técnico","Solteiro","Sim","Muito bom",31,3
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",33,10
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",29,0
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",33,3
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",45,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",50,5
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",33,6
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Excelente",41,18
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",27,2
+"Não","Não viaja","Ensino Técnico","Casado","Sim","Muito bom",45,9
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",47,9
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",30,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",50,12
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Bom",38,2
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",46,8
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",24,4
+"Sim","Viaja raramente","Mestrado","Divorciado","Sim","Ruim",35,4
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",31,4
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",18,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",54,10
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Bom",35,16
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",30,8
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",20,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",30,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",26,8
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",22,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",48,2
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",48,15
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",41,2
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",39,21
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",27,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",35,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",42,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",50,1
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",59,5
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",37,1
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",55,8
+"Não","Não viaja","Ensino Médio","Divorciado","Não","Muito bom",41,21
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",38,1
+"Sim","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",26,2
+"Sim","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",52,32
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",44,12
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",50,18
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",36,17
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",39,21
+"Não","Não viaja","Ensino Médio","Solteiro","Não","Bom",33,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",45,9
+"Não","Não viaja","Mestrado","Solteiro","Não","Muito bom",32,8
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",34,15
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Ruim",59,6
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",45,6
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",53,15
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",36,1
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Sim","Muito bom",26,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",34,1
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",28,1
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",38,2
+"Não","Viaja raramente","Mestrado","Casado","Sim","Bom",50,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",37,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",40,7
+"Não","Viaja frequentemente","Ensino Médio","Divorciado","Não","Muito bom",26,5
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",46,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",54,9
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",56,5
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Bom",36,14
+"Não","Não viaja","Ensino Médio","Solteiro","Não","Excelente",55,9
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",43,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Muito bom",20,2
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",21,1
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",46,16
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Excelente",51,10
+"Sim","Não viaja","Ensino Técnico","Solteiro","Não","Bom",28,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",26,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",30,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",41,10
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",38,19
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",40,11
+"Não","Não viaja","Doutorado","Casado","Não","Muito bom",27,3
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",55,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",28,8
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",44,20
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",33,3
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",35,8
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",33,13
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",28,4
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Bom",34,6
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",37,1
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Excelente",25,7
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",26,1
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",33,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",42,22
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",28,1
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Sim","Muito bom",50,0
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",33,3
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",34,0
+"Não","Não viaja","Mestrado","Solteiro","Não","Bom",48,5
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",45,15
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",52,8
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",38,8
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",29,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",28,9
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",46,12
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",38,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",43,8
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",39,18
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",40,20
+"Não","Viaja raramente","Ensino Médio","Solteiro","Sim","Excelente",21,2
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",39,5
+"Não","Não viaja","Mestrado","Solteiro","Não","Muito bom",36,11
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",31,2
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Ruim",28,5
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Muito bom",35,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",49,9
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",34,3
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",29,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",42,1
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",29,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",38,7
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Muito bom",28,3
+"Sim","Não viaja","Ensino Médio","Solteiro","Não","Muito bom",18,0
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",33,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",41,1
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",31,2
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",37,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",27,4
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",34,6
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Ruim",35,5
+"Sim","Viaja raramente","Ensino Médio","Casado","Não","Ruim",29,11
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Bom",40,18
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Bom",42,21
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",42,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",35,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",24,4
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Bom",28,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",26,8
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,10
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Ruim",40,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",35,7
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",34,13
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Excelente",35,2
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",43,4
+"Não","Não viaja","Ensino Médio","Divorciado","Não","Muito bom",32,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",56,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",29,10
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",19,1
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",45,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",37,14
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",20,2
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",44,6
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",53,7
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",29,5
+"Sim","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",22,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",46,26
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",44,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",33,5
+"Sim","Não viaja","Ensino Técnico","Divorciado","Não","Ruim",41,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",30,4
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",40,0
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",50,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",28,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",46,4
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",35,7
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",24,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",33,10
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",36,7
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",30,10
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",44,20
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",20,2
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",46,6
+"Não","Não viaja","Doutorado","Casado","Não","Excelente",42,4
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",60,11
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",32,2
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Muito bom",32,8
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",36,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",33,14
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",40,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",25,4
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",30,11
+"Não","Viaja frequentemente","Doutorado","Casado","Sim","Muito bom",42,1
+"Não","Não viaja","Ensino Técnico","Casado","Sim","Bom",35,13
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",27,9
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Ruim",54,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",44,10
+"Sim","Não viaja","Ensino Superior","Solteiro","Sim","Excelente",19,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",29,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",54,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",31,6
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",31,10
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",59,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",43,8
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",49,1
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",36,11
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Bom",48,1
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",27,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",29,6
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",48,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",29,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",34,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",44,22
+"Não","Viaja raramente","Doutorado","Divorciado","Sim","Muito bom",33,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",19,1
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",23,1
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",25,1
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Bom",26,8
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",45,24
+"Não","Não viaja","Ensino Médio","Divorciado","Sim","Muito bom",55,33
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Ruim",21,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",46,11
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",34,3
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Bom",51,29
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",59,9
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Excelente",34,11
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Bom",28,4
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",44,25
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",34,10
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",35,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",42,1
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",43,21
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",36,16
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",44,10
+"Não","Viaja frequentemente","Ensino Superior","Casado","Sim","Muito bom",28,2
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",51,7
+"Não","Não viaja","Ensino Técnico","Solteiro","Sim","Muito bom",30,8
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",29,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",28,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",25,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",32,10
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",45,0
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",39,19
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",58,2
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",32,10
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",39,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,9
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",36,7
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",46,7
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",28,9
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",50,3
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",40,5
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Bom",52,8
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",30,9
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",39,8
+"Não","Não viaja","Mestrado","Divorciado","Sim","Bom",31,10
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",41,19
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Excelente",31,3
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Excelente",44,3
+"Não","Não viaja","Ensino Médio","Casado","Sim","Bom",42,20
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",55,19
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",56,7
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Muito bom",40,4
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",34,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",40,9
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",41,9
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Muito bom",35,9
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",51,33
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",38,7
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",34,10
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",25,3
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Bom",58,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",40,4
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",36,15
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",48,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",27,1
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Bom",51,5
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Excelente",18,0
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,9
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Muito bom",27,6
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Bom",55,19
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",56,19
+"Não","Não viaja","Ensino Médio","Divorciado","Não","Muito bom",34,5
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",40,12
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",34,8
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Excelente",31,1
+"Sim","Viaja frequentemente","Mestrado","Casado","Sim","Bom",35,4
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",38,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",34,14
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",28,5
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Bom",31,10
+"Não","Viaja raramente","Mestrado","Casado","Sim","Excelente",39,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",51,4
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Bom",41,6
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",37,6
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Excelente",33,5
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",32,3
+"Não","Não viaja","Ensino Técnico","Casado","Não","Muito bom",39,6
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",25,3
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Bom",52,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Ruim",43,20
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",27,6
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",27,8
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",26,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",42,20
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",52,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",37,3
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Muito bom",35,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",25,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",26,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",29,10
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Muito bom",49,4
+"Sim","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",29,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",54,20
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",58,9
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Excelente",55,7
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",36,5
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",31,1
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",30,3
+"Não","Viaja raramente","Doutorado","Solteiro","Não","Excelente",31,3
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",34,4
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",31,1
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Excelente",27,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",36,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",36,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",47,6
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",25,3
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Ruim",37,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",56,3
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",47,20
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",24,5
+"Não","Viaja raramente","Doutorado","Casado","Não","Bom",32,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",34,5
+"Não","Viaja raramente","Doutorado","Casado","Sim","Bom",41,4
+"Não","Não viaja","Mestrado","Divorciado","Não","Excelente",40,8
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",31,13
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",46,7
+"Sim","Não viaja","Ensino Superior","Solteiro","Sim","Excelente",39,1
+"Sim","Viaja frequentemente","Doutorado","Solteiro","Não","Muito bom",31,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",45,7
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",31,3
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Sim","Ruim",31,2
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Excelente",45,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",48,2
+"Sim","Viaja raramente","Mestrado","Casado","Não","Muito bom",34,2
+"Não","Não viaja","Ensino Médio","Divorciado","Não","Muito bom",40,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",28,5
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",44,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",53,9
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",49,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",40,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",44,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",33,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",34,13
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",30,2
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Muito bom",42,12
+"Não","Viaja frequentemente","Doutorado","Casado","Não","Bom",44,1
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Bom",30,1
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",57,12
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",49,8
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",34,14
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",28,3
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Ruim",29,5
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Excelente",34,15
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",35,1
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Bom",24,0
+"Não","Não viaja","Ensino Técnico","Casado","Não","Muito bom",24,1
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Bom",44,2
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",29,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Excelente",30,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",55,3
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",33,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",47,5
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Não","Bom",28,0
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Ruim",28,1
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",28,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",49,3
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",29,3
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",28,8
+"Não","Viaja raramente","Doutorado","Solteiro","Sim","Muito bom",33,0
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",32,5
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",54,14
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Ruim",29,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",44,20
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",39,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",46,13
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Ruim",35,11
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",23,4
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Ruim",40,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",34,10
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Ruim",31,7
+"Não","Viaja frequentemente","Doutorado","Solteiro","Sim","Muito bom",50,32
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",34,11
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",42,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",37,10
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",29,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",33,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",45,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Sim","Ruim",42,20
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",40,8
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",33,15
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",40,21
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",24,1
+"Não","Não viaja","Ensino Técnico","Divorciado","Sim","Muito bom",40,2
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",45,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",35,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",32,7
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Bom",36,3
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",48,8
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",29,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",33,2
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,10
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",38,6
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",35,3
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",30,4
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",35,1
+"Sim","Viaja raramente","Doutorado","Casado","Não","Muito bom",53,33
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,5
+"Não","Não viaja","Mestrado","Casado","Não","Bom",32,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",48,8
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Ruim",34,1
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",55,36
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",34,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",26,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Excelente",38,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",36,1
+"Não","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",29,10
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",35,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",39,7
+"Não","Viaja frequentemente","Ensino Médio","Divorciado","Não","Excelente",29,6
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",50,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",23,2
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",36,3
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",42,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",35,10
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Bom",34,8
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",40,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",43,6
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",35,1
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Ruim",46,26
+"Sim","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",28,1
+"Não","Não viaja","Ensino Técnico","Casado","Sim","Bom",22,4
+"Não","Viaja frequentemente","Doutorado","Casado","Sim","Muito bom",50,30
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",32,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Bom",44,22
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",30,6
+"Não","Viaja raramente","Doutorado","Solteiro","Sim","Muito bom",45,10
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",45,10
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",31,5
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",36,3
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",34,9
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",49,9
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",39,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",27,7
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",35,16
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",28,5
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",21,2
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Excelente",18,0
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",47,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",39,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",40,18
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",35,14
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",37,4
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Ruim",39,9
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",45,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Excelente",38,5
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",35,13
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",37,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Bom",40,4
+"Não","Viaja frequentemente","Doutorado","Casado","Sim","Muito bom",44,10
+"Não","Viaja frequentemente","Doutorado","Casado","Não","Muito bom",48,2
+"Sim","Viaja raramente","Ensino Técnico","Divorciado","Sim","Bom",35,2
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Sim","Muito bom",24,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",27,3
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Bom",27,4
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Ruim",40,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",36,3
+"Não","Viaja frequentemente","Ensino Médio","Divorciado","Não","Muito bom",25,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",39,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",49,4
+"Não","Viaja raramente","Doutorado","Divorciado","Não","Muito bom",50,14
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",20,2
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",34,11
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",36,4
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",49,15
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",36,3
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",36,5
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",54,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",43,14
+"Sim","Viaja frequentemente","Mestrado","Solteiro","Sim","Excelente",35,11
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",38,13
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Bom",29,10
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",33,6
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",32,9
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",31,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Bom",49,2
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",38,4
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",47,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",49,8
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",41,2
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",20,2
+"Não","Não viaja","Ensino Superior","Divorciado","Sim","Muito bom",33,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",36,3
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",44,2
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",23,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",38,0
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",53,4
+"Sim","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",48,9
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",32,1
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",26,7
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",55,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",34,15
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Excelente",60,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",33,14
+"Não","Viaja frequentemente","Mestrado","Divorciado","Não","Bom",37,6
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",34,10
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",23,3
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",44,8
+"Não","Viaja frequentemente","Mestrado","Solteiro","Sim","Excelente",35,5
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",43,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",24,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",41,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",29,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",36,13
+"Não","Não viaja","Ensino Médio","Casado","Não","Bom",45,23
+"Sim","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",24,1
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Ruim",47,23
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",26,3
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",45,21
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",32,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",31,5
+"Não","Não viaja","Ensino Superior","Casado","Não","Muito bom",41,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",40,1
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Excelente",24,6
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",46,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",35,7
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",30,10
+"Não","Não viaja","Mestrado","Casado","Não","Ruim",47,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Bom",46,10
+"Sim","Viaja raramente","Doutorado","Divorciado","Sim","Muito bom",36,2
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",32,0
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Ruim",23,3
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Bom",31,5
+"Não","Não viaja","Ensino Superior","Casado","Sim","Muito bom",39,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Ruim",32,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",40,21
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",45,5
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",30,9
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",24,2
+"Sim","Viaja frequentemente","Ensino Superior","Divorciado","Não","Bom",30,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",31,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",27,6
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,2
+"Não","Viaja frequentemente","Ensino Superior","Solteiro","Sim","Excelente",29,3
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Muito bom",30,7
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",34,5
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",33,11
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Excelente",49,5
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Bom",33,0
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Bom",38,6
+"Sim","Viaja raramente","Mestrado","Casado","Não","Muito bom",31,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",29,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",30,7
+"Não","Não viaja","Mestrado","Solteiro","Não","Muito bom",32,7
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",38,1
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Sim","Muito bom",43,1
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",42,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",55,1
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Bom",33,9
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",41,5
+"Não","Não viaja","Ensino Superior","Divorciado","Sim","Muito bom",34,15
+"Não","Não viaja","Mestrado","Casado","Sim","Bom",53,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",43,9
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",34,2
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",21,1
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",38,5
+"Sim","Viaja raramente","Ensino Médio","Casado","Sim","Muito bom",22,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",31,12
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",51,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",37,5
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",46,2
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",36,12
+"Sim","Viaja frequentemente","Ensino Técnico","Divorciado","Sim","Bom",44,5
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",37,10
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",35,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",33,10
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",28,5
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",39,4
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",46,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",40,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",42,0
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Muito bom",35,7
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Muito bom",38,11
+"Sim","Viaja frequentemente","Mestrado","Casado","Não","Bom",34,7
+"Sim","Viaja raramente","Mestrado","Solteiro","Não","Ruim",37,10
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",39,2
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",43,3
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Ruim",41,3
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Excelente",41,22
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",30,7
+"Sim","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",26,5
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Excelente",46,9
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",40,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",34,10
+"Não","Não viaja","Ensino Superior","Divorciado","Não","Bom",58,16
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",35,5
+"Não","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",47,22
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",40,7
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",54,7
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",31,3
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",28,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Bom",38,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",26,5
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",58,2
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Ruim",18,0
+"Sim","Viaja raramente","Doutorado","Casado","Não","Muito bom",31,1
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",29,2
+"Não","Não viaja","Mestrado","Casado","Não","Excelente",45,8
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",36,1
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",43,7
+"Não","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Bom",27,5
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Excelente",29,11
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Excelente",32,0
+"Não","Não viaja","Mestrado","Casado","Não","Bom",42,6
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",47,2
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Bom",46,9
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Muito bom",28,3
+"Não","Viaja raramente","Ensino Médio","Divorciado","Não","Muito bom",29,7
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",42,0
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Bom",32,2
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",46,19
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",27,9
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",29,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",43,16
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",48,22
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Bom",29,1
+"Sim","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",46,8
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",27,7
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",39,2
+"Não","Viaja raramente","Mestrado","Casado","Não","Excelente",55,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",28,1
+"Sim","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",30,1
+"Sim","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",22,1
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",36,10
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",31,10
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",34,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",29,3
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",37,5
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",35,3
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",45,9
+"Não","Viaja frequentemente","Ensino Médio","Solteiro","Não","Bom",36,10
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Muito bom",40,19
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Bom",26,1
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Bom",27,8
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Não","Muito bom",48,22
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",44,2
+"Sim","Não viaja","Mestrado","Casado","Sim","Muito bom",34,5
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Não","Muito bom",56,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",36,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",41,5
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",42,13
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Muito bom",31,5
+"Não","Viaja raramente","Ensino Médio","Casado","Sim","Bom",34,4
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",31,2
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",26,7
+"Não","Viaja frequentemente","Mestrado","Solteiro","Não","Muito bom",45,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Bom",33,10
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Sim","Muito bom",28,7
+"Sim","Viaja frequentemente","Ensino Superior","Solteiro","Não","Muito bom",29,1
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",39,3
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",27,5
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",34,15
+"Sim","Viaja raramente","Ensino Técnico","Solteiro","Sim","Muito bom",28,2
+"Não","Não viaja","Mestrado","Casado","Não","Excelente",47,8
+"Não","Viaja raramente","Doutorado","Casado","Não","Muito bom",56,0
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",39,10
+"Não","Viaja frequentemente","Ensino Superior","Divorciado","Sim","Muito bom",38,20
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Bom",58,1
+"Sim","Viaja frequentemente","Ensino Técnico","Solteiro","Sim","Muito bom",32,4
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Não","Excelente",38,5
+"Não","Viaja frequentemente","Ensino Médio","Casado","Não","Muito bom",49,5
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Muito bom",42,0
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",27,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Ruim",35,5
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",28,5
+"Não","Não viaja","Ensino Técnico","Divorciado","Sim","Excelente",31,4
+"Não","Não viaja","Mestrado","Casado","Não","Muito bom",36,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",34,14
+"Não","Viaja raramente","Mestrado","Divorciado","Não","Bom",34,8
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",26,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",29,5
+"Não","Não viaja","Mestrado","Divorciado","Não","Muito bom",32,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Muito bom",31,10
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Não","Bom",28,4
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Bom",38,1
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",35,10
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",27,7
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",32,1
+"Sim","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",31,10
+"Sim","Viaja raramente","Mestrado","Solteiro","Sim","Bom",53,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",54,4
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Muito bom",33,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",43,10
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Muito bom",38,6
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",55,10
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Muito bom",31,1
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",39,20
+"Não","Não viaja","Ensino Técnico","Solteiro","Não","Muito bom",42,20
+"Não","Não viaja","Ensino Superior","Casado","Não","Excelente",31,11
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",54,5
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Bom",24,4
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",23,5
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Excelente",40,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",40,11
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",25,2
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Bom",30,12
+"Não","Viaja raramente","Ensino Médio","Divorciado","Sim","Bom",25,2
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",47,17
+"Não","Não viaja","Ensino Técnico","Divorciado","Não","Bom",33,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",38,15
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",31,2
+"Não","Viaja frequentemente","Mestrado","Casado","Não","Muito bom",38,8
+"Não","Viaja raramente","Mestrado","Divorciado","Sim","Bom",42,4
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",41,5
+"Não","Não viaja","Ensino Médio","Casado","Não","Ruim",47,13
+"Não","Viaja raramente","Mestrado","Casado","Sim","Muito bom",35,2
+"Não","Viaja raramente","Ensino Técnico","Solteiro","Não","Excelente",22,3
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",35,10
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",33,9
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",32,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",40,1
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",32,2
+"Não","Viaja raramente","Ensino Médio","Solteiro","Não","Muito bom",39,7
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",38,18
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",32,14
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",37,16
+"Não","Viaja raramente","Ensino Técnico","Divorciado","Sim","Bom",25,5
+"Não","Não viaja","Mestrado","Divorciado","Não","Bom",52,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Sim","Muito bom",44,4
+"Não","Viaja raramente","Ensino Médio","Solteiro","Sim","Muito bom",21,2
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Bom",39,6
+"Sim","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",23,1
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",36,9
+"Não","Viaja frequentemente","Ensino Técnico","Divorciado","Não","Muito bom",36,4
+"Não","Não viaja","Mestrado","Divorciado","Não","Bom",56,13
+"Sim","Viaja raramente","Mestrado","Casado","Sim","Excelente",29,2
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Bom",42,22
+"Sim","Viaja raramente","Ensino Técnico","Casado","Não","Ruim",56,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",41,20
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Muito bom",34,8
+"Não","Não viaja","Mestrado","Divorciado","Não","Bom",36,15
+"Não","Viaja raramente","Ensino Superior","Divorciado","Não","Muito bom",41,5
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",32,4
+"Não","Viaja raramente","Mestrado","Solteiro","Sim","Muito bom",35,9
+"Não","Viaja raramente","Ensino Técnico","Casado","Não","Muito bom",38,10
+"Sim","Viaja frequentemente","Mestrado","Divorciado","Não","Muito bom",50,6
+"Não","Viaja raramente","Mestrado","Casado","Não","Bom",36,6
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",45,5
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Muito bom",40,2
+"Não","Viaja frequentemente","Mestrado","Casado","Sim","Excelente",35,10
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",40,5
+"Não","Viaja raramente","Mestrado","Casado","Não","Muito bom",35,4
+"Não","Viaja raramente","Ensino Técnico","Casado","Sim","Muito bom",29,4
+"Não","Viaja raramente","Mestrado","Solteiro","Não","Ruim",29,5
+"Sim","Viaja raramente","Ensino Superior","Divorciado","Sim","Muito bom",50,3
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Bom",39,20
+"Não","Não viaja","Ensino Superior","Solteiro","Não","Muito bom",31,9
+"Não","Viaja raramente","Ensino Superior","Solteiro","Não","Muito bom",26,4
+"Não","Viaja frequentemente","Ensino Técnico","Casado","Não","Muito bom",36,5
+"Não","Viaja raramente","Ensino Médio","Casado","Não","Muito bom",39,7
+"Não","Viaja raramente","Ensino Superior","Casado","Sim","Muito bom",27,6
+"Não","Viaja frequentemente","Ensino Superior","Casado","Não","Bom",49,9
+"Não","Viaja raramente","Ensino Superior","Casado","Não","Excelente",34,4

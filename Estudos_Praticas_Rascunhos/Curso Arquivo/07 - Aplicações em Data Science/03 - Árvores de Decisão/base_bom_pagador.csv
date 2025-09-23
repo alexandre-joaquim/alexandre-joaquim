@@ -1,0 +1,101 @@
+Bom_Pagador,Renda_Mensal,Idade,Estado_Civil,Possui_Cartao_Credito,Escolaridade,Tempo_Emprego,Qtd_Filhos,Score_Credito,Historico_Inadimplencia,Utiliza_Limite_Cartao,Valor_Emprestimos,Tipo_Residencia,Trabalha_Formalmente
+Sim,1688,21,Solteiro,Não,Pós-graduação,0,5,429,Nunca,97,40613,Financiada,Sim
+Sim,12645,32,Viúvo,Não,Pós-graduação,19,4,580,Nunca,69,44769,Própria,Sim
+Sim,13308,22,Solteiro,Não,Fundamental,4,2,346,Nunca,48,15783,Alugada,Sim
+Sim,3376,20,Solteiro,Sim,Médio,7,2,355,Nunca,58,32615,Financiada,Sim
+Não,12669,39,Divorciado,Não,Fundamental,4,1,866,Nunca,41,38217,Alugada,Sim
+Sim,10297,22,Divorciado,Sim,Pós-graduação,15,0,599,Nunca,24,9379,Financiada,Sim
+Não,13802,50,Solteiro,Não,Superior,21,2,429,Nunca,89,15216,Financiada,Não
+Sim,5871,33,Solteiro,Não,Fundamental,3,3,953,Nunca,30,30221,Própria,Sim
+Sim,14092,35,Viúvo,Sim,Fundamental,18,1,802,2 ou mais,73,41805,Financiada,Sim
+Sim,12001,60,Solteiro,Não,Pós-graduação,30,3,405,1 vez,49,16644,Própria,Sim
+Sim,7073,49,Divorciado,Sim,Médio,6,4,312,1 vez,29,30118,Alugada,Sim
+Sim,3327,31,Divorciado,Sim,Pós-graduação,14,4,887,Nunca,99,16733,Própria,Não
+Sim,6308,52,Casado,Não,Superior,22,5,591,Nunca,52,43702,Alugada,Não
+Sim,8623,26,Divorciado,Sim,Pós-graduação,8,3,780,1 vez,5,615,Alugada,Sim
+Sim,4091,64,Divorciado,Sim,Superior,24,2,790,2 ou mais,40,30490,Própria,Sim
+Sim,8933,54,Viúvo,Sim,Pós-graduação,11,0,751,Nunca,95,18850,Financiada,Sim
+Sim,1553,54,Solteiro,Sim,Pós-graduação,5,3,648,Nunca,60,44407,Alugada,Sim
+Sim,13330,48,Divorciado,Não,Superior,19,2,488,1 vez,90,35821,Própria,Não
+Não,13291,33,Solteiro,Não,Superior,19,1,352,1 vez,48,10353,Própria,Sim
+Sim,5815,48,Casado,Sim,Superior,30,3,558,Nunca,49,4840,Própria,Sim
+Não,9701,44,Divorciado,Não,Pós-graduação,23,1,789,1 vez,84,28949,Financiada,Sim
+Sim,13983,30,Casado,Sim,Superior,22,2,416,Nunca,83,22646,Própria,Sim
+Sim,4427,24,Casado,Não,Pós-graduação,3,2,366,Nunca,19,38507,Própria,Sim
+Sim,9817,24,Viúvo,Não,Superior,24,2,710,Nunca,63,19605,Financiada,Sim
+Não,3243,60,Solteiro,Não,Médio,26,2,803,Nunca,4,41873,Alugada,Sim
+Sim,11744,45,Casado,Sim,Médio,5,4,375,2 ou mais,16,27807,Própria,Sim
+Sim,6389,40,Viúvo,Não,Fundamental,30,5,890,Nunca,64,45240,Própria,Sim
+Sim,11968,45,Viúvo,Sim,Superior,9,2,944,1 vez,75,16390,Própria,Sim
+Não,9817,44,Solteiro,Não,Pós-graduação,3,4,354,2 ou mais,42,29939,Própria,Sim
+Sim,11477,47,Solteiro,Sim,Superior,18,0,455,Nunca,12,19799,Financiada,Sim
+Não,4758,64,Casado,Sim,Superior,0,4,452,Nunca,56,13055,Própria,Sim
+Não,4004,21,Viúvo,Sim,Médio,29,1,876,Nunca,12,25211,Alugada,Sim
+Sim,7626,61,Viúvo,Não,Fundamental,9,0,611,Nunca,67,31667,Alugada,Não
+Não,13992,59,Viúvo,Sim,Médio,18,1,387,Nunca,58,6989,Alugada,Sim
+Sim,4146,59,Casado,Não,Médio,21,5,554,Nunca,1,15545,Financiada,Não
+Sim,10337,24,Solteiro,Não,Médio,29,3,421,Nunca,92,24993,Alugada,Sim
+Não,14257,21,Viúvo,Sim,Superior,30,3,871,1 vez,18,37481,Alugada,Não
+Sim,10189,43,Divorciado,Não,Fundamental,12,4,726,Nunca,52,23524,Própria,Sim
+Não,1509,64,Divorciado,Sim,Fundamental,12,1,920,1 vez,83,37670,Própria,Não
+Sim,11313,39,Viúvo,Não,Superior,30,5,910,Nunca,19,19390,Própria,Sim
+Não,6810,24,Divorciado,Sim,Superior,22,3,933,Nunca,9,45827,Financiada,Sim
+Sim,9505,33,Solteiro,Não,Fundamental,6,5,531,Nunca,60,19348,Financiada,Sim
+Sim,1819,30,Viúvo,Não,Médio,2,5,835,Nunca,100,1437,Própria,Sim
+Sim,3332,30,Casado,Não,Superior,18,3,689,1 vez,33,43137,Própria,Sim
+Sim,7447,52,Divorciado,Não,Médio,22,3,761,2 ou mais,43,25939,Financiada,Não
+Sim,14718,46,Viúvo,Não,Fundamental,26,0,753,1 vez,79,17988,Financiada,Sim
+Sim,6538,26,Solteiro,Sim,Médio,20,0,604,Nunca,88,530,Própria,Sim
+Sim,5423,45,Solteiro,Sim,Pós-graduação,7,2,902,2 ou mais,50,37088,Financiada,Sim
+Sim,2449,29,Solteiro,Não,Superior,3,1,739,Nunca,83,44944,Própria,Sim
+Sim,5446,35,Divorciado,Sim,Superior,22,3,612,Nunca,10,48802,Financiada,Sim
+Sim,10795,47,Casado,Sim,Pós-graduação,24,5,882,Nunca,42,3214,Alugada,Sim
+Sim,2790,33,Divorciado,Não,Pós-graduação,9,1,935,1 vez,86,39741,Financiada,Sim
+Sim,2903,22,Divorciado,Não,Médio,27,2,361,Nunca,68,48835,Alugada,Sim
+Não,13491,46,Solteiro,Sim,Fundamental,21,5,924,Nunca,48,32553,Própria,Sim
+Sim,9462,53,Divorciado,Sim,Médio,19,4,401,Nunca,40,18756,Alugada,Não
+Sim,14869,24,Casado,Sim,Pós-graduação,25,2,512,Nunca,80,15081,Própria,Sim
+Sim,2633,21,Casado,Sim,Pós-graduação,3,3,940,Nunca,91,39784,Financiada,Sim
+Não,13961,59,Viúvo,Sim,Pós-graduação,25,4,516,Nunca,97,23089,Própria,Sim
+Sim,10227,52,Viúvo,Sim,Médio,18,4,570,2 ou mais,62,14352,Financiada,Não
+Sim,14047,18,Solteiro,Sim,Superior,25,2,976,Nunca,69,41721,Própria,Não
+Não,3560,23,Casado,Não,Superior,1,3,383,Nunca,4,12460,Alugada,Sim
+Sim,3603,33,Casado,Não,Superior,11,5,460,1 vez,79,40690,Alugada,Não
+Sim,12309,28,Solteiro,Não,Fundamental,17,4,545,1 vez,8,16425,Financiada,Sim
+Sim,9287,44,Viúvo,Não,Fundamental,13,2,477,1 vez,30,44417,Financiada,Sim
+Não,10507,49,Divorciado,Sim,Médio,21,2,865,Nunca,80,49517,Financiada,Sim
+Não,4205,48,Casado,Não,Fundamental,11,5,376,Nunca,87,47246,Alugada,Sim
+Sim,5842,31,Divorciado,Sim,Médio,2,3,460,Nunca,36,43200,Alugada,Sim
+Sim,10145,43,Divorciado,Sim,Superior,16,2,302,Nunca,29,44620,Própria,Sim
+Sim,11438,21,Casado,Sim,Médio,20,2,718,1 vez,95,8963,Financiada,Sim
+Sim,8432,28,Solteiro,Não,Fundamental,10,2,761,Nunca,11,41172,Alugada,Não
+Sim,4970,42,Solteiro,Não,Médio,0,1,908,2 ou mais,55,6367,Própria,Sim
+Não,10335,18,Viúvo,Sim,Fundamental,27,0,781,1 vez,12,41121,Financiada,Sim
+Não,13874,42,Viúvo,Sim,Superior,13,5,598,Nunca,97,42358,Financiada,Sim
+Sim,13459,34,Divorciado,Sim,Fundamental,26,1,333,2 ou mais,81,2583,Alugada,Sim
+Sim,12802,47,Viúvo,Sim,Médio,15,2,537,Nunca,90,20246,Financiada,Sim
+Sim,4795,36,Divorciado,Não,Superior,3,0,595,1 vez,12,28889,Própria,Sim
+Não,13180,45,Solteiro,Não,Fundamental,13,5,589,Nunca,56,2186,Própria,Sim
+Sim,6607,62,Solteiro,Sim,Superior,30,4,764,Nunca,21,37982,Financiada,Sim
+Sim,8037,64,Casado,Sim,Fundamental,11,5,372,Nunca,88,23911,Alugada,Sim
+Sim,12504,53,Viúvo,Não,Médio,20,1,539,Nunca,38,47995,Financiada,Sim
+Sim,12147,60,Viúvo,Não,Fundamental,28,1,570,Nunca,3,8612,Financiada,Sim
+Sim,7618,63,Viúvo,Sim,Médio,26,1,940,Nunca,5,5906,Própria,Sim
+Sim,8677,49,Viúvo,Não,Fundamental,14,5,903,Nunca,41,19340,Alugada,Sim
+Não,9979,27,Solteiro,Não,Médio,22,3,977,1 vez,7,21411,Financiada,Sim
+Sim,8897,30,Solteiro,Não,Pós-graduação,4,2,502,Nunca,37,48986,Financiada,Sim
+Sim,3482,36,Solteiro,Sim,Médio,13,5,735,Nunca,45,27230,Própria,Sim
+Não,5561,31,Viúvo,Sim,Pós-graduação,5,4,417,1 vez,47,11510,Financiada,Sim
+Sim,5181,21,Viúvo,Sim,Pós-graduação,23,4,857,2 ou mais,55,13159,Alugada,Não
+Sim,2549,55,Casado,Sim,Médio,16,4,530,Nunca,18,8661,Financiada,Sim
+Sim,7039,65,Divorciado,Sim,Fundamental,30,2,963,1 vez,31,35350,Alugada,Sim
+Sim,1844,52,Solteiro,Não,Fundamental,20,0,452,Nunca,67,23976,Própria,Sim
+Sim,11138,21,Viúvo,Sim,Superior,8,1,572,Nunca,52,34789,Financiada,Sim
+Não,10575,65,Viúvo,Sim,Pós-graduação,19,2,445,1 vez,72,32885,Própria,Sim
+Sim,5270,38,Viúvo,Não,Médio,25,1,373,1 vez,87,17860,Alugada,Sim
+Sim,11141,21,Viúvo,Sim,Superior,29,2,361,Nunca,23,10783,Alugada,Não
+Sim,5108,21,Viúvo,Não,Pós-graduação,17,1,469,1 vez,21,16840,Alugada,Sim
+Não,1617,55,Solteiro,Sim,Superior,24,2,614,2 ou mais,22,31578,Própria,Sim
+Sim,2663,48,Divorciado,Sim,Pós-graduação,15,0,909,Nunca,10,19342,Alugada,Sim
+Não,13097,50,Casado,Não,Pós-graduação,14,5,882,Nunca,78,48926,Alugada,Sim
+Não,11839,51,Viúvo,Sim,Fundamental,13,4,595,Nunca,48,22198,Própria,Sim
