@@ -30,6 +30,7 @@
 
 ### 🔹[Java](Java): Projeto em Java voltado ao desenvolvimento de aplicações back-end com foco em desempenho e escalabilidade.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexandre-joaquim=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexandre-joaquim&theme=python-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
