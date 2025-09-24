@@ -26,10 +26,25 @@
 
 ## 📁 Arquivos
 
-### 🔹[Python](Python): Automatização de processos de obtenção e tratamento de dados com foco em qualidade e eficiência para análises posteriores.
+### 🔹 [Estudos, Práticas e Rascunhos](Estudos_Praticas_Rascunhos)  
+Repositório com materiais diversos de estudo, incluindo banco de dados, exercícios, anotações e práticas de cursos.
 
-### 🔹[Java](Java): Projeto em Java voltado ao desenvolvimento de aplicações back-end com foco em desempenho e escalabilidade.
+### 🔹 [Power BI](Power%20BI)  
+Dashboards, análises e relatórios interativos voltados para visualização de dados e suporte à tomada de decisão.
+
+### 🔹 [Python](Python)  
+Automatização de processos, tratamento de dados e scripts voltados para eficiência em análises.
+
+### 🔹 [SQL](SQL)  
+Consultas, scripts de criação e manipulação de banco de dados para suporte a análises e projetos de BI.
+
+### 🔹 [Images](images)  
+Repositório de imagens e ícones utilizados nos projetos.
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexandre-joaquim&theme=python-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <hr>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexandre-joaquim&theme=python-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+
    
