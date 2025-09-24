@@ -46,5 +46,5 @@ Repositório de imagens e ícones utilizados nos projetos.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-joaquim\&layout=donut-vertical)](https://github.com/alexandre-joaquim/github-readme-stats)
+
    
