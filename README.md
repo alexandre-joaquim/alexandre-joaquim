@@ -11,16 +11,16 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="EXCEL" height="25" src="images/microsoft-excel.svg"></code>
-  <code><img title="Power BI" height="25" src="images/icons8-power-bi.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Python" height="25" src="imagens/icones_repository/python-original.svg"></code>
+  <code><img title="EXCEL" height="25" src="imagens/icones_repository/microsoft-excel.svg"></code>
+  <code><img title="Power BI" height="25" src="imagens/icones_repository/icons8-power-bi.svg"></code>
+  <code><img title="Java" height="25" src="imagens/icones_repository/java-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="imagens/icones_repository/vscode.png"></code>
+  <code><img title="JSON" height="25" src="imagens/icones_repository/json.svg"></code>
+  <code><img title="GitHub" height="25" src="imagens/icones_repository/github.svg"></code>
+  <code><img title="Django" height="25" src="imagens/icones_repository/django.png"></code>
+  <code><img title="Git" height="25" src="imagens/icones_repository/git-original.svg"></code>
+  <code><img title="MySQL" height="25" src="imagens/icones_repository/mysql.svg"></code>
 </p>
 <hr>
 
